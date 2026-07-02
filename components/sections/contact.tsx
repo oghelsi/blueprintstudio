@@ -80,10 +80,10 @@ export function Contact() {
           <Reveal delay={0.24}>
             <div className="mt-10 flex flex-col gap-4 font-sans text-sm text-bone/80">
               <a
-                href="mailto:hello@blueprintstudio.co"
+                href="mailto:thecreatorsblueprints@gmail.com"
                 className="group flex w-fit items-center gap-2 hover:text-gold"
               >
-                hello@blueprintstudio.co
+                thecreatorsblueprints@gmail.com
                 <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
               </a>
               <span className="text-mist">+44 (0)20 7946 0192</span>
