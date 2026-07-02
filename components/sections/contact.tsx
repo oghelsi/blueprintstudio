@@ -86,7 +86,7 @@ export function Contact() {
                 thecreatorsblueprints@gmail.com
                 <ArrowRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-1" />
               </a>
-              <span className="text-mist">+44 (0)20 7946 0192</span>
+              <a href="https://instagram.com/tcblueprintstudio" target="_blank" className="text-mist">@tcblueprintstudio on Instagram</a>
               <span className="text-mist">London · Remote-first studio</span>
             </div>
           </Reveal>
