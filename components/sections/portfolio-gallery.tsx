@@ -47,6 +47,14 @@ const ITEMS = [
     span: "md:col-span-4",
     h: "h-[420px]",
   },
+  {
+    brand: "Fenwick & Hale",
+    sector: "Independent Estate Agency",
+    tag: "Brand site · Listings · Local SEO",
+    img: images.livingRoomWarm,
+    span: "md:col-span-12",
+    h: "h-[420px]",
+  },
 ] as const;
 
 export function PortfolioGallery() {
